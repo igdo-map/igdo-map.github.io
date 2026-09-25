@@ -1,2 +1,2 @@
 # igdo-map.github.io
-Mapeo de sellos IGDO.
+Mapeo de sellos IGDO...
