@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function() {
     filterControl.addTo(map);
 
     // 3. Carga del CSV mediante PapaParse
-    Papa.parse("datos.csv", {
+    Papa.parse("datos6.csv", {
         download: true,
         header: true,
         delimiter: ";",
